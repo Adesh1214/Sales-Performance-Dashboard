@@ -14,8 +14,4 @@ Sales by Segmentation: Groups sales data based on specific customer or market se
 Sales by State: Provides state-level insights, which is crucial for localized decision-making.
 
 
-# Data Story - This project narrates the journey of a business through its sales data, uncovering insights like:
-Seasonal trends driving revenue.
-Regions that outperform or underperform.
-Key products contributing to profitability.
-Segments of customers that generate the highest returns.
+# Data Story - This project narrates the journey of a business through its sales data, uncovering insights like 1.Seasonal trends driving revenue   2.Regions that outperform or underperform   3.Key products contributing to profitability   4. Segments of customers that generate the highest returns.
