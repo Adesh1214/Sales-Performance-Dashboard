@@ -15,15 +15,20 @@ Sales by State: Provides state-level insights, which is crucial for localized de
 
 
 # Data Story -
-# 1. Underperforming Regions- 
-# East and Central regions contribute the least to overall sales compared to South and West.
-# Action: Invest in localized marketing strategies, partnerships, and infrastructure improvements in these regions to enhance their performance.
-# 2. Low Product Contribution-
-# Some product subcategories like binders, supplies, and machines have significantly lower contributions compared to furniture and technology.
-# Action: Identify reasons for underperformance, adjust pricing, or promote these products more aggressively through targeted campaigns.
-# 3. Sales by Segmentation-
-# Home Office segment shows lower contribution compared to Corporate and Consumer segments.
-# Action: Create specific promotions or bundles for the Home Office segment to drive engagement and sales.
-# 4. Seasonality in Sales Trend-
-# Sales trends indicate fluctuations with low periods around the beginning of each year.
-# Action: Launch promotions or campaigns during these months to stabilize revenue and mitigate seasonal drops.
+## 1. Underperforming Regions- 
+### East and Central regions contribute the least to overall sales compared to South and West.
+### Action: Invest in localized marketing strategies, partnerships, and infrastructure improvements in these regions to enhance their performance.
+## 2. Low Product Contribution-
+### Some product subcategories like binders, supplies, and machines have significantly lower contributions compared to furniture and technology.
+### Action: Identify reasons for underperformance, adjust pricing, or promote these products more aggressively through targeted campaigns.
+## 3. Sales by Segmentation-
+### Home Office segment shows lower contribution compared to Corporate and Consumer segments.
+### Action: Create specific promotions or bundles for the Home Office segment to drive engagement and sales.
+## 4. Seasonality in Sales Trend-
+### Sales trends indicate fluctuations with low periods around the beginning of each year.
+### Action: Launch promotions or campaigns during these months to stabilize revenue and mitigate seasonal drops.
+
+# Screenshot -
+<img src="https://github.com/Adesh1214/Sales-Performance-Dashboard/blob/main/Superstore%20Dashboard.png" alt="myql-logo" width="800" height="400"/>
+
+
